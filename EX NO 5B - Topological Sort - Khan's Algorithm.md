@@ -1,6 +1,6 @@
 
 # EX 5B Topological Sort - Khan's Algorithm
-## DATE:
+## DATE:16/10/25
 ## AIM:
 To write a Java program to for given constraints.
 Problem Description:
@@ -27,7 +27,7 @@ If not, print "Release cannot be scheduled".
 <img width="341" height="363" alt="image" src="https://github.com/user-attachments/assets/f0355541-4f66-49da-bcd3-171a799a7c1f" />
 
 ## Algorithm
-1. Start and read the number of tasks n and dependency pairs.
+1.Start and read the number of tasks n and dependency pairs.
 
 2.Build a directed graph using an adjacency list and compute the indegree of each node.
 
