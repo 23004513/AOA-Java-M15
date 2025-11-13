@@ -1,6 +1,6 @@
 
 # EX 5C Graph coloring
-## DATE:
+## DATE:23/10/25
 ## AIM:
 To write a Java program to for given constraints.
 Problem Description:
@@ -26,7 +26,7 @@ Otherwise, print "NO".
 
 
 ## Algorithm
-1. Start and read the number of nodes n, available colors m, and edges e.
+1.Start and read the number of nodes n, available colors m, and edges e.
 
 2.Construct an adjacency list to represent the graph connections.
 
