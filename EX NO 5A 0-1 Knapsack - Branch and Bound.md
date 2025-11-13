@@ -1,6 +1,6 @@
 
 # EX 5A 0/1 Knapsack Problem - Branch&Bound 
-## DATE:
+## DATE:09/10/25
 ## AIM:
 To Write a Java program to solve 0/1 Knapsack problem using Branch and Bound Approach.
 You are heading a college entrepreneurship cell that can invest in up to N student‑startups.
@@ -37,7 +37,7 @@ For example:
 
 
 ## Algorithm
-1. Start and read the number of startups N, total budget B, and each startup’s cost and profit.
+1.Start and read the number of startups N, total budget B, and each startup’s cost and profit.
 
 2.Sort the startups in descending order of profit-to-cost ratio to improve bounding efficiency.
 
